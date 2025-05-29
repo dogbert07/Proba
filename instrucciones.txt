@@ -1,0 +1,20 @@
+
+📊 INSTRUCCIONES PARA USAR EL DASHBOARD (LEHENDAKARITZA)
+
+1. Abre Anaconda Navigator.
+2. Busca y haz clic en el botón **Launch** debajo de "anaconda_prompt".
+
+3. En la ventana que se abre, escribe:
+   cd Downloads
+
+4. Luego ejecuta:
+   python lehendakaritza_dashboard_interactivo.py
+
+📌 IMPORTANTE:
+- Asegúrate de que los archivos `.py` y `.xlsx` estén en tu carpeta Descargas.
+- El dashboard se abrirá automáticamente en tu navegador (http://127.0.0.1:8050)
+
+Si deseas usar otro archivo Excel, reemplaza el archivo:
+export_20250529081355.xls.xlsx
+por uno nuevo, manteniendo el mismo nombre.
+
