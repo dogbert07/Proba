@@ -2,7 +2,7 @@
 import pandas as pd
 import plotly.express as px
 from dash import Dash, html, dcc, Input, Output
-import dash_table
+from dash import dash_table
 
 # === Cargar datos desde Excel ===
 EXCEL_FILE = 'export_20250529081355.xls.xlsx'
